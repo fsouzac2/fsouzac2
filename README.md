@@ -5,7 +5,7 @@
 ## Who am I?
 
 * 👨‍💻 Support Analyst 
-* 👨‍💻 Student Data Scientist.
+* 👨‍💻 Data Scientist Student
 
 
 ## Find me around the world :earth_americas:
